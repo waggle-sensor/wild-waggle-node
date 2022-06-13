@@ -5,7 +5,7 @@
 
 | Port | Description | Use/Notes |
 | ------------- |------------- | ------------- |
-|**AC Power**|3 pin single phase 50/60 Hz, 85-264 VAC power input. | | 
+|**AC Power**|3 pin single phase 50/60 Hz, 85-264 VAC power input. | AC power input for the nodes.| 
 |**Power LED**|Red LED that indicates power to the Node.|The LED turns on about 16 seconds after applying power.|
 |**Status LED**|Multicolored LED that shows the status of the Node. | _Blinking blue_: the WSN is booted and running. _Solid red_: the WSN is shut down, and power can safely be removed.|
 |**Health LED**|Multicolored LED that shows the health node.|_Solid green_: Healthy state. _Solid Orange_: Warning state -- one or more minor issues. _Solid Red_: Failed state-- one or more major issues. LED should transition from off to solid green about 10 min after power ON. If the LED is not green, check back after approximately 1 hour.|
