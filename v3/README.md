@@ -1,6 +1,6 @@
 ## WWN Boundary Interfaces and Components
 
-<img src="https://raw.githubusercontent.com/waggle-sensor/.github/main/profile/Photo2.png" width="900"></br>
+<img src="https://raw.githubusercontent.com/waggle-sensor/wild-waggle-node/main/v3/images/WSN.png" width="900"></br>
 
 
 | Port | Description | Use/Notes |
